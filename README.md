@@ -25,6 +25,7 @@ The analysis was performed using Python and the following libraries:
 * Ipywidgets: Interactive analysis (Dropdowns for crop-specific stats).
 * SciPy: Statistical analysis (Pearson correlation).
 * Jupyter Notebook: Interactive development environment.
+* IBM SPSS Statistics
 
 ## 📊 Methodology & Key Analysis
 The project follows a structured data analytics lifecycle:
